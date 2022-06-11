@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /search
+Disallow: /categories
+Disallow: /articles
+Allow: /
+
+Sitemap: https://gawetech.com/sitemap.xml
